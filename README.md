@@ -27,6 +27,8 @@ apttrm
 ```
 <img width="811" height="577" alt="Image" src="https://github.com/user-attachments/assets/e132b731-4a68-4bc6-8fbc-bf59970043ce" />
 
+---
+
 - Type to search
 - **Tab** to select multiple packages
 - **Enter** to install/remove
